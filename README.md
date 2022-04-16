@@ -5,3 +5,9 @@ EDA involves generating summary statistics for numerical data in the dataset and
 Importing the required libraries for Exploratory Data Analysis (pandas, numpy, matplotlib, and seaborn)
 ### Uploading Data Set
 Uploading the Titanic.csv from existing location to the google colab
+### Reading Data Set
+Read the Titanic.csv dataset
+### Changing Index
+- Pandas default index starts from 0
+- While the dataset index of the PassengerId column starts from 1
+- Then we will use the index dataset of column PassengerId
